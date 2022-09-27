@@ -16,4 +16,4 @@ Its a demo video and images of my project based on TF which detects number plate
 
 # DemoVideo
 
-https://youtu.be/nFobhmMzgdk
+https://drive.google.com/file/d/1uubtSKaY2fD7RKHtTuzg_UUiXDDRRFZi/view?usp=sharing
